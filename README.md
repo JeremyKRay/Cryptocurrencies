@@ -14,6 +14,8 @@ Second, PCA was used to reduce dimensions to 3 principal components.
 ### Clusters
 Third, clusters were created to group the cryptocurrencies currently in the trading market. An elbow curve was created to come up with the best value for K. The K value was then used to classify the various cryptocurrencies.
 
+[Elbow_Curve.png](https://github.com/JeremyKRay/Cryptocurrencies/blob/c141db74fa99513a970ace2127c4c08a9516a6e0/Images/Elbow_Curve.png)
+
 ### Visualizations
 Fourth, hvplot and pplot were used to create a finalized table and visualizations.
 
