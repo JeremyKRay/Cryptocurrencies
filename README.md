@@ -26,4 +26,4 @@ Fourth, hvplot and pplot were used to create a finalized table and visualization
 ![Final_hbplot_scatter](https://github.com/JeremyKRay/Cryptocurrencies/blob/d8b5ad354176383dfbbe15c14d8bad77c284cb12/Images/Final_hvplot_scatter.png)
 
 ## Results
-
+Cryptocurrencies can be classified into 4 different categories, it appears. With 2 that are fairly closely grouped, and 2 that appear to be somewhat outliers. If I was an investment group, I would focus on classes 0 and 1. But, I do not know a whole lot about cryptocurrency so I would not listen to me. A professional should look at this model, and investors should listen to their conclusion on what it is showing. 
