@@ -21,8 +21,9 @@ Third, clusters were created to group the cryptocurrencies currently in the trad
 ### Visualizations
 Fourth, hvplot and pplot were used to create a finalized table and visualizations.
 
-https://github.com/JeremyKRay/Cryptocurrencies/blob/3c15257896c55868e9938c2e5dde0ba43bd86084/Images/Final_Table.png
-https://github.com/JeremyKRay/Cryptocurrencies/blob/d8b5ad354176383dfbbe15c14d8bad77c284cb12/Images/Final_hvplot_scatter.png
+![3d_pplot](https://github.com/JeremyKRay/Cryptocurrencies/blob/c4f56fadb7b39e923fa31a1fbf202a8fded833a2/Images/3d_pplot.png)
+![Final_Table](https://github.com/JeremyKRay/Cryptocurrencies/blob/3c15257896c55868e9938c2e5dde0ba43bd86084/Images/Final_Table.png)
+![Final_hbplot_scatter](https://github.com/JeremyKRay/Cryptocurrencies/blob/d8b5ad354176383dfbbe15c14d8bad77c284cb12/Images/Final_hvplot_scatter.png)
 
 ## Results
 
